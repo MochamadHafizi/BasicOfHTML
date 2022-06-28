@@ -1,0 +1,51 @@
+body{
+    margin: 20px;
+    font-family: poppins;
+}
+h1.judul{
+    text-align: center;
+    margin-top: 50px;
+}
+.gambar img{
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+p.ket{
+    text-align: center;
+}
+p.contact{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+.link-group {
+    margin-top: 5em;
+    word-spacing: 20px;
+    margin-left: 30em;
+}
+.link-group a{
+    color: black;
+}
+button{
+    background-color: tomato;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-width: 0px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+ul.biodata{
+    text-align: center;
+}
+.alamat{
+    text-align: center;
+}
